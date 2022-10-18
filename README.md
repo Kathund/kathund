@@ -24,10 +24,10 @@ Reach me at<br>
 
 
 Languages:<br>
-<img style="padding:4px;" alt="HTML5" height="32px" width="32px"  src="icons/html.svg">
-<img style="padding:4px;" alt="CSS3" height="32px" width="32px"  src="icons/css.svg">
-<img style="padding:4px;" alt="JavaScript" height="32px" width="32px"  src="icons/javascript.svg">
-<img style="padding:4px;" alt="NodeJS" height="32px" width="32px"  src="icons/nodejs.svg">
-<img style="padding:4px;" alt="Python" height="32px" width="32px"  src="icons/Python.svg">
+<img style="padding:4px;" alt="HTML5" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/HTML.svg">
+<img style="padding:4px;" alt="CSS3" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/CSS.svg">
+<img style="padding:4px;" alt="JavaScript" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/JavaScript.svg">
+<img style="padding:4px;" alt="NodeJS" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/NodeJS.svg">
+<img style="padding:4px;" alt="Python" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/python.svg">
 
 ![bottomwave](https://user-images.githubusercontent.com/69483090/187580538-9d81c91f-4b2a-45a8-ba91-f24441f36d2a.png)
