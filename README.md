@@ -24,6 +24,7 @@ Reach me at<br>
 
 
 Languages:<br>
+
 <img style="padding:4px;" alt="HTML5" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/HTML.svg">
 <img style="padding:4px;" alt="CSS3" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/CSS.svg">
 <img style="padding:4px;" alt="JavaScript" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/JavaScript.svg">
