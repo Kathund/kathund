@@ -1,28 +1,20 @@
-# Recent Activity template
+![124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97](https://user-images.githubusercontent.com/69483090/169423034-23320007-c609-403e-90c0-8a7f057f7def.png)
+<br>
+<br>
 
-This is a Template-Repository made for the [Recent-Activity] Action.  
-It was made to give you an easy way to setup a Profile Readme to use.
+<h2 align="center">
+    
+![Overall stats](https://github-readme-stats.vercel.app/api?username=kathund&theme=tokyonight&show_icons=true&count_private=true)
 
-## Getting started
+Reach me at<br>
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Kathund_)
+![bottomwave](https://user-images.githubusercontent.com/69483090/187580538-9d81c91f-4b2a-45a8-ba91-f24441f36d2a.png)
 
-1. Click on the green `Use this template` button
-   ![button]
-2. In the new screen, set the Repository name to your Username.
-   ![repo-name]
-3. Go to the EXAMPLE.md file and click the Edit icon.
-   ![edit]
-4. Rename the file to README.md  
-   Optionally can you also edit the content of the file to include your own info.
-5. Save your changes
-6. Go to `.github` and edit the `recent-activity.config.yml` file
-7. In this file, change `readme-file: ./EXAMPLE.md` to `readme-file: ./README.md`  
-   You can also change other settings in this file. A full guide about the file's settings can be found [here][configuration]
-8. Save your changes.
-9. You're done!
-
-[recent-activity]: https://github.com/Readme-Workflows/recent-activity
-[configuration]: https://github.com/Readme-Workflows/recent-activity/wiki/Configuration
-
-[button]: https://user-images.githubusercontent.com/11576465/120392035-35007100-c330-11eb-9a51-78b21427d552.png
-[repo-name]: https://user-images.githubusercontent.com/11576465/120391734-c15e6400-c32f-11eb-9d79-e11ec4f2b1e0.png
-[edit]: https://user-images.githubusercontent.com/11576465/120392216-785adf80-c330-11eb-8cf0-3db0ee1c4084.png
+⚡ Recent GitHub Activity
+<!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+2. 📔 Created new repository [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+3. ✌️ Released [Recent Activity v2.2.0 Released!](https://github.com/Readme-Workflows/recent-activity/releases/tag/v2.2.0) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. 🎉 Merged PR [#68](https://github.com/Readme-Workflows/recent-activity/pull/68) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. 👍 Approved [#68](https://github.com/Readme-Workflows/recent-activity/pull/68#pullrequestreview-672173006) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+<!--RECENT_ACTIVITY:end-->
