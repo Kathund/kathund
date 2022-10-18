@@ -1,6 +1,5 @@
 ![124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97](https://user-images.githubusercontent.com/69483090/169423034-23320007-c609-403e-90c0-8a7f057f7def.png)
-<br>
-<br>
+
 
 <h2 align="right">
     
@@ -19,5 +18,16 @@ Reach me at<br>
 4. 📔 Created new repository [Kathund/kathund](https://github.com/Kathund/kathund)
 5. ⬆️ Pushed 1 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
 <!--RECENT_ACTIVITY:end-->
+
+
+<h2 align="right">
+
+
+Languages:<br>
+<img style="padding:4px;" alt="HTML5" height="32px" width="32px"  src="icons/html.svg">
+<img style="padding:4px;" alt="CSS3" height="32px" width="32px"  src="icons/css.svg">
+<img style="padding:4px;" alt="JavaScript" height="32px" width="32px"  src="icons/javascript.svg">
+<img style="padding:4px;" alt="NodeJS" height="32px" width="32px"  src="icons/nodejs.svg">
+<img style="padding:4px;" alt="Python" height="32px" width="32px"  src="icons/Python.svg">
 
 ![bottomwave](https://user-images.githubusercontent.com/69483090/187580538-9d81c91f-4b2a-45a8-ba91-f24441f36d2a.png)
