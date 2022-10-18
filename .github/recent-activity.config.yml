@@ -1,7 +1,7 @@
 settings:
   username: "Kathund"
   commit_msg: "Update README with the recent activity"
-  readme_file: "./readme.md"
+  readme-file: ./README.md
   max_lines: 5
   disabled_events:
     - "comments"
