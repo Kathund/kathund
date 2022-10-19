@@ -12,11 +12,11 @@ Reach me at<br>
 
 ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Kathund/spotify-github-profile](https://github.com/Kathund/spotify-github-profile) from [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
-2. ⬆️ Pushed 2 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
-3. ⭐ Starred [microsoft/calculator](https://github.com/microsoft/calculator)
-4. ⬆️ Pushed 1 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
-5. ⬆️ Pushed 1 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
+1. 🔱 Forked [Kathund/hypixel-discord-guild-bridge](https://github.com/Kathund/hypixel-discord-guild-bridge) from [Altpapier/hypixel-discord-guild-bridge](https://github.com/Altpapier/hypixel-discord-guild-bridge)
+2. ⭐ Starred [Altpapier/hypixel-discord-guild-bridge](https://github.com/Altpapier/hypixel-discord-guild-bridge)
+3. 🔱 Forked [Kathund/spotify-github-profile](https://github.com/Kathund/spotify-github-profile) from [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
+4. ⬆️ Pushed 2 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
+5. ⭐ Starred [microsoft/calculator](https://github.com/microsoft/calculator)
 <!--RECENT_ACTIVITY:end-->
 
 
