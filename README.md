@@ -1,4 +1,4 @@
-![124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97](https://user-images.githubusercontent.com/69483090/169423034-23320007-c609-403e-90c0-8a7f057f7def.png)
+![top-wave](https://raw.githubusercontent.com/Kathund/kathund/main/icons/Top-Wave.png)
 
 
 <h2 align="right">
@@ -32,4 +32,4 @@ Languages:<br>
 <img style="padding:4px;" alt="Python" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/python.svg">
 </div>
 
-![bottomwave](https://user-images.githubusercontent.com/69483090/187580538-9d81c91f-4b2a-45a8-ba91-f24441f36d2a.png)
+![Bottom-Wave](https://raw.githubusercontent.com/Kathund/kathund/main/icons/Bottom-Wave.png)
