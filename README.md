@@ -3,7 +3,7 @@
 
 <h2 align="right">
     
-![Overall stats](https://github-readme-stats.vercel.app/api?username=kathund&theme=tokyonight&show_icons=true&count_private=true)
+![Overall stats](https://github-readme-stats.vercel.app/api?username=kathund&theme=vue-dark&show_icons=true&count_private=true)
 
 Reach me at<br>
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Kathund_)
@@ -22,7 +22,7 @@ Reach me at<br>
 
 <h2 align="right">
 
-
+<div style="padding-right:32px;">
 Languages:<br>
 
 <img style="padding:4px;" alt="HTML5" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/HTML.svg">
@@ -30,5 +30,6 @@ Languages:<br>
 <img style="padding:4px;" alt="JavaScript" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/JavaScript.svg">
 <img style="padding:4px;" alt="NodeJS" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/NodeJS.svg">
 <img style="padding:4px;" alt="Python" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/python.svg">
+</div>
 
 ![bottomwave](https://user-images.githubusercontent.com/69483090/187580538-9d81c91f-4b2a-45a8-ba91-f24441f36d2a.png)
