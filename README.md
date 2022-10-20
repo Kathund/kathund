@@ -12,11 +12,11 @@ Reach me at<br>
 
 ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Kathund/Tip-calculator-app](https://github.com/Kathund/Tip-calculator-app)
-2. ⬆️ Pushed 1 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
-3. ⬆️ Pushed 2 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
-4. 🔱 Forked [Kathund/hypixel-discord-guild-bridge](https://github.com/Kathund/hypixel-discord-guild-bridge) from [Altpapier/hypixel-discord-guild-bridge](https://github.com/Altpapier/hypixel-discord-guild-bridge)
-5. ⭐ Starred [Altpapier/hypixel-discord-guild-bridge](https://github.com/Altpapier/hypixel-discord-guild-bridge)
+1. 🔱 Forked [Kathund/DuckySoLucky](https://github.com/Kathund/DuckySoLucky) from [DuckySoLucky/DuckySoLucky](https://github.com/DuckySoLucky/DuckySoLucky)
+2. ⬆️ Pushed 1 commit(s) to [Kathund/Tip-calculator-app](https://github.com/Kathund/Tip-calculator-app)
+3. ⬆️ Pushed 1 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
+4. ⬆️ Pushed 2 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
+5. 🔱 Forked [Kathund/hypixel-discord-guild-bridge](https://github.com/Kathund/hypixel-discord-guild-bridge) from [Altpapier/hypixel-discord-guild-bridge](https://github.com/Altpapier/hypixel-discord-guild-bridge)
 <!--RECENT_ACTIVITY:end-->
 
 
