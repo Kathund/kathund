@@ -32,4 +32,8 @@ Languages:<br>
 <img style="padding:4px;" alt="Python" height="32px" width="32px"  src="https://raw.githubusercontent.com/Kathund/kathund/main/icons/python.svg">
 </div>
 
+<h2 align="left"> <br> <br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kathund&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most%20Used%20Coding%20Languages">
+
 ![Bottom-Wave](https://raw.githubusercontent.com/Kathund/kathund/main/icons/Bottom-Wave.png)
