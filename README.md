@@ -12,11 +12,11 @@ Reach me at<br>
 
 ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
-2. 🔱 Forked [Kathund/DuckySoLucky](https://github.com/Kathund/DuckySoLucky) from [DuckySoLucky/DuckySoLucky](https://github.com/DuckySoLucky/DuckySoLucky)
-3. ⬆️ Pushed 1 commit(s) to [Kathund/Tip-calculator-app](https://github.com/Kathund/Tip-calculator-app)
-4. ⬆️ Pushed 1 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
-5. ⬆️ Pushed 2 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
+1. ⭐ Starred [Statsify/statsify](https://github.com/Statsify/statsify)
+2. ⬆️ Pushed 1 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
+3. 🔱 Forked [Kathund/DuckySoLucky](https://github.com/Kathund/DuckySoLucky) from [DuckySoLucky/DuckySoLucky](https://github.com/DuckySoLucky/DuckySoLucky)
+4. ⬆️ Pushed 1 commit(s) to [Kathund/Tip-calculator-app](https://github.com/Kathund/Tip-calculator-app)
+5. ⬆️ Pushed 1 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
 <!--RECENT_ACTIVITY:end-->
 
 
