@@ -6,6 +6,8 @@
 ![Overall stats](https://github-readme-stats.vercel.app/api?username=kathund&theme=vue-dark&show_icons=true&count_private=true)
 
 Reach me at<br>
+<img src="https://discord.c99.nl/widget/theme-3/608584543506530314.png">
+<br>
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Kathund_)
 
 <h2 align="left">
@@ -35,5 +37,7 @@ Languages:<br>
 <h2 align="left"> <br> <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kathund&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most%20Used%20Coding%20Languages">
+
+<h2 align="right"> <br> <br>
 
 ![Bottom-Wave](https://raw.githubusercontent.com/Kathund/kathund/main/icons/Bottom-Wave.png)
