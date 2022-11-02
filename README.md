@@ -16,8 +16,8 @@ Reach me at<br>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Kathund/hypixel-discord-chat-bridge](https://github.com/Kathund/hypixel-discord-chat-bridge)
 2. ⬆️ Pushed 1 commit(s) to [Kathund/hypixel-discord-chat-bridge](https://github.com/Kathund/hypixel-discord-chat-bridge)
-3. 🔱 Forked [Kathund/SkyCrypt](https://github.com/Kathund/SkyCrypt) from [SkyCryptWebsite/SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)
-4. 🔱 Forked [Kathund/SkyCrypt](https://github.com/Kathund/SkyCrypt) from [SkyCryptWebsite/SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)
+3. ⬆️ Pushed 1 commit(s) to [Kathund/hypixel-discord-chat-bridge](https://github.com/Kathund/hypixel-discord-chat-bridge)
+4. ⬆️ Pushed 1 commit(s) to [Kathund/hypixel-discord-chat-bridge](https://github.com/Kathund/hypixel-discord-chat-bridge)
 5. 🔱 Forked [Kathund/SkyCrypt](https://github.com/Kathund/SkyCrypt) from [SkyCryptWebsite/SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)
 <!--RECENT_ACTIVITY:end-->
 
