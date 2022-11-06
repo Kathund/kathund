@@ -14,11 +14,11 @@ Reach me at<br>
 
 ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#25](https://github.com/DuckySoLucky/hypixel-discord-chat-bridge/pull/25) in [DuckySoLucky/hypixel-discord-chat-bridge](https://github.com/DuckySoLucky/hypixel-discord-chat-bridge)
-2. ⬆️ Pushed 1 commit(s) to [Kathund/hypixel-discord-chat-bridge](https://github.com/Kathund/hypixel-discord-chat-bridge)
-3. ⬆️ Pushed 9 commit(s) to [Kathund/hypixel-discord-chat-bridge](https://github.com/Kathund/hypixel-discord-chat-bridge)
-4. 💪 Opened PR [#1](https://github.com/AxleCat284/Hyperbolic-Guild-Bot/pull/1) in [AxleCat284/Hyperbolic-Guild-Bot](https://github.com/AxleCat284/Hyperbolic-Guild-Bot)
-5. ⬆️ Pushed 1 commit(s) to [Kathund/Hyperbolic-Guild-Bot](https://github.com/Kathund/Hyperbolic-Guild-Bot)
+1. ⬆️ Pushed 2 commit(s) to [Kathund/hypixel-discord-chat-bridge](https://github.com/Kathund/hypixel-discord-chat-bridge)
+2. 💪 Opened PR [#25](https://github.com/DuckySoLucky/hypixel-discord-chat-bridge/pull/25) in [DuckySoLucky/hypixel-discord-chat-bridge](https://github.com/DuckySoLucky/hypixel-discord-chat-bridge)
+3. ⬆️ Pushed 1 commit(s) to [Kathund/hypixel-discord-chat-bridge](https://github.com/Kathund/hypixel-discord-chat-bridge)
+4. ⬆️ Pushed 9 commit(s) to [Kathund/hypixel-discord-chat-bridge](https://github.com/Kathund/hypixel-discord-chat-bridge)
+5. 💪 Opened PR [#1](https://github.com/AxleCat284/Hyperbolic-Guild-Bot/pull/1) in [AxleCat284/Hyperbolic-Guild-Bot](https://github.com/AxleCat284/Hyperbolic-Guild-Bot)
 <!--RECENT_ACTIVITY:end-->
 
 
