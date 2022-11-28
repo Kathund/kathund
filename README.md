@@ -14,11 +14,11 @@ Reach me at<br>
 
 ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+1. 📔 Created new repository [Kathund/kathund.github.io](https://github.com/Kathund/kathund.github.io)
 2. ⬆️ Pushed 1 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
-3. ⭐ Starred [insolitum/insolitum.github.io](https://github.com/insolitum/insolitum.github.io)
-4. ⬆️ Pushed 1 commit(s) to [Kathund/hypixel-discord-chat-bridge](https://github.com/Kathund/hypixel-discord-chat-bridge)
-5. ⬆️ Pushed 28 commit(s) to [Kathund/hypixel-discord-chat-bridge](https://github.com/Kathund/hypixel-discord-chat-bridge)
+3. ⬆️ Pushed 1 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+4. ⭐ Starred [insolitum/insolitum.github.io](https://github.com/insolitum/insolitum.github.io)
+5. ⬆️ Pushed 1 commit(s) to [Kathund/hypixel-discord-chat-bridge](https://github.com/Kathund/hypixel-discord-chat-bridge)
 <!--RECENT_ACTIVITY:end-->
 
 
