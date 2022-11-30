@@ -14,11 +14,11 @@ Reach me at<br>
 
 ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Kathund/hypixelStats](https://github.com/Kathund/hypixelStats)
-2. ⬆️ Pushed 3 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
-3. ⬆️ Pushed 1 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
-4. ⬆️ Pushed 1 commit(s) to [Kathund/kathund](https://github.com/Kathund/kathund)
-5. 📔 Created new repository [Kathund/kathund.github.io](https://github.com/Kathund/kathund.github.io)
+1. ⬆️ Pushed 1 commit(s) to [Kathund/Coding](https://github.com/Kathund/Coding)
+2. ⭐ Starred [Kathund/hypixel-stats](https://github.com/Kathund/hypixel-stats)
+3. ⬆️ Pushed 1 commit(s) to [Kathund/hypixel-stats](https://github.com/Kathund/hypixel-stats)
+4. ⬆️ Pushed 1 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+5. ⬆️ Pushed 5 commit(s) to [Kathund/hypixel-stats](https://github.com/Kathund/hypixel-stats)
 <!--RECENT_ACTIVITY:end-->
 
 
