@@ -14,11 +14,11 @@ Reach me at<br>
 
 ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [Kathund/hypixel-stats](https://github.com/Kathund/hypixel-stats)
-2. ⬆️ Pushed 10 commit(s) to [Kathund/hypixel-stats](https://github.com/Kathund/hypixel-stats)
-3. ⬆️ Pushed 3 commit(s) to [Kathund/hypixel-stats](https://github.com/Kathund/hypixel-stats)
-4. ⬆️ Pushed 2 commit(s) to [Kathund/hypixel-stats](https://github.com/Kathund/hypixel-stats)
-5. ⬆️ Pushed 7 commit(s) to [Kathund/hypixel-stats](https://github.com/Kathund/hypixel-stats)
+1. ⬆️ Pushed 1 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+2. ⬆️ Pushed 2 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+3. ⭐ Starred [Altpapier/SkyHelper-Networth](https://github.com/Altpapier/SkyHelper-Networth)
+4. ⬆️ Pushed 6 commit(s) to [Kathund/hypixel-stats](https://github.com/Kathund/hypixel-stats)
+5. ⬆️ Pushed 10 commit(s) to [Kathund/hypixel-stats](https://github.com/Kathund/hypixel-stats)
 <!--RECENT_ACTIVITY:end-->
 
 
