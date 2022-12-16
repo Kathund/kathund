@@ -16,9 +16,9 @@ Reach me at<br>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
 2. ⬆️ Pushed 1 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
-3. ❗️ Opened issue [#32](https://github.com/Kathund/Felony-Bridge-bot/issues/32) in [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
-4. ❗️ Opened issue [#31](https://github.com/Kathund/Felony-Bridge-bot/issues/31) in [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
-5. ✔️ Closed issue [#29](https://github.com/Kathund/Felony-Bridge-bot/issues/29) in [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+3. ⬆️ Pushed 1 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+4. ❗️ Opened issue [#32](https://github.com/Kathund/Felony-Bridge-bot/issues/32) in [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+5. ❗️ Opened issue [#31](https://github.com/Kathund/Felony-Bridge-bot/issues/31) in [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
 <!--RECENT_ACTIVITY:end-->
 
 
