@@ -14,11 +14,11 @@ Reach me at<br>
 
 ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#45](https://github.com/Kathund/Felony-Bridge-bot/issues/45) in [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
-2. ⬆️ Pushed 27 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
-3. ✔️ Closed issue [#44](https://github.com/Kathund/Felony-Bridge-bot/issues/44) in [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
-4. 🎉 Merged PR [#46](https://github.com/Kathund/Felony-Bridge-bot/pull/46) in [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
-5. ⬆️ Pushed 2 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+1. ⬆️ Pushed 2 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+2. ❗️ Opened issue [#47](https://github.com/Kathund/Felony-Bridge-bot/issues/47) in [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+3. ✔️ Closed issue [#45](https://github.com/Kathund/Felony-Bridge-bot/issues/45) in [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+4. ⬆️ Pushed 27 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+5. ✔️ Closed issue [#44](https://github.com/Kathund/Felony-Bridge-bot/issues/44) in [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
 <!--RECENT_ACTIVITY:end-->
 
 
