@@ -15,10 +15,10 @@ Reach me at<br>
 ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
-2. ⬆️ Pushed 1 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
-3. ⬆️ Pushed 2 commit(s) to [Kathund/Coding](https://github.com/Kathund/Coding)
+2. ⬆️ Pushed 2 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+3. ⬆️ Pushed 2 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
 4. ⬆️ Pushed 2 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
-5. 🎉 Merged PR [#51](https://github.com/Kathund/Felony-Bridge-bot/pull/51) in [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
+5. ⬆️ Pushed 1 commit(s) to [Kathund/Felony-Bridge-bot](https://github.com/Kathund/Felony-Bridge-bot)
 <!--RECENT_ACTIVITY:end-->
 
 
