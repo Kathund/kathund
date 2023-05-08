@@ -8,7 +8,4 @@ I make bad code! have some random stuff
 **Reach me at**<br>
 <img src="https://discord.c99.nl/widget/theme-3/608584543506530314.png">
 
-## 📊 Github Stats
-<br>
-
 ![Overall stats](https://github-readme-stats.vercel.app/api?username=kathund&theme=vue-dark&show_icons=true&count_private=true)
