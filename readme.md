@@ -1,4 +1,4 @@
-I make bad code! have some random stuff
+I make bad code! im a walking talking clown emoji - have some random stuff
 
 <h2 align="center">
 <img src="https://komarev.com/ghpvc/?username=Kathund">
