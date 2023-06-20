@@ -9,3 +9,5 @@ I make bad code! im a walking talking clown emoji - have some random stuff
 <img src="https://discord.c99.nl/widget/theme-3/608584543506530314.png">
 
 ![Overall stats](https://github-readme-stats.vercel.app/api?username=kathund&theme=vue-dark&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathund&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
