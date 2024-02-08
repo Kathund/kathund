@@ -5,8 +5,6 @@ disc @kathund.
 
 i think i do code in what ever these languages are
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
-  
-![](https://raw.githubusercontent.com/Kathund/github-stats-transparent/output/generated/languages.svg)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kathund&hide=html&layout=compact&exclude_repo=kath)
 
-</a>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=kathund&layout=compact)
